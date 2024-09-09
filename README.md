@@ -3,7 +3,7 @@
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`: ADS
+`CURSO`: 
 
 `SEMESTRE`
 
