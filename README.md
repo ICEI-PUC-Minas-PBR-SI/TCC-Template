@@ -5,7 +5,9 @@ Trabalho Interdisciplinar - Aplicacões Web
 
 `CURSO`: 
 
-`SEMESTRE`
+`SEMESTRE:`
+
+`OBJETIVO ODS:` > Inclua os numeros e a descrição do(s) objetivo(s) ODS da ONU que o Projeto vai atender. 
 
 ## Participantes
 
