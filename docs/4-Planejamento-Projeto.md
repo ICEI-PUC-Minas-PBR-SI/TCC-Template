@@ -6,10 +6,6 @@
 
 > Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
 
-### Product Design - Avaliação em Grupo
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Documentação: AlunaZ (pode se colocar mais alunos, enfim a ideia é refletir a verdade)
   
 ### Sprint 1
 - _Scrum master_: AlunaX
@@ -34,16 +30,7 @@
 
 > Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
 
-## Product Design - Avaliação em Grupo
 
-Atualizado em: 21/04/2024
-
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 
 ## Sprint 1
 
