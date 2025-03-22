@@ -1,4 +1,3 @@
-# Código-fonte do projeto
+# Código-fonte do Trabalho de Conclusão de Curso
 
-Aqui devem ficar os arquivos-fonte do projeto: HTML, CSS, Javascript, imagens, e outros necessários para o 
-funcionamento do sistema.
+Código-fonte do TCC.

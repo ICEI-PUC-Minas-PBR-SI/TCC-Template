@@ -1,17 +1,17 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# Informações sobre o Trabalho de Conclusão de Curso (TCC)
+`TÍTULO DO TCC`  
 
-Trabalho Interdisciplinar - Aplicacões Web
+Trabalho de Conclusão de Curso (TCC)
 
 `CURSO`: 
 
 `SEMESTRE:`
 
-`OBJETIVO ODS:` > Inclua os numeros e a descrição do(s) objetivo(s) ODS da ONU que o Projeto vai atender. 
+`Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` > Inclua o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
 
 ## Participantes
 
-Os membros do grupo são: 
+Os membros da equipe são: 
 - Fulano da Silva
 - Ciclano Albuquerque
 
@@ -20,8 +20,7 @@ Os membros do grupo são:
 # Estrutura do Projeto
 
 1. [Contexto](./docs/1-Contexto.md)
-2. [Especificações do Projeto](./docs/2-Especificação.md)
-3. [Projeto da Interface](./docs/3-Interface.md)
+2. [Especificação do Projeto](./docs/2-Especificação.md)
 4. [Gerenciamento do Projeto](./docs/4-Gerenciamento-Projeto.md)
 5. [Implementação](./docs/5-Implementação.md)
 6. [Referências](./docs/6-Referências.md)
@@ -33,16 +32,19 @@ Os membros do grupo são:
 
 Esta pasta arquiva a documentação dos projetos.
 
+Na pasta `docs`, há uma subpasta `apresentacao` que deve arquivar os arquivos utilizados para a apresentação do trabalho.
 
-Na pasta `docs`, há uma subpasta `images` que deve arquivar todas as
+Na pasta `docs`, há uma subpasta `artigo` que deve arquivar o artigo do trabalho.
+
+Na pasta `docs`, há uma subpasta `imagem` que deve arquivar todas as
 imagens utilizadas para a elaboração do documento.
 
+Na pasta `docs`, há uma subpasta `video` que deve arquivar todos os
+videos do trabalho.
 
 ## Pasta src
 
-Este diretório armazena o código fonte do projeto e adota uma hierarquia
-básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
-JavaScript.
+Este diretório armazena o código fonte do projeto
 
 ### Links Úteis:
 
