@@ -7,7 +7,8 @@ Trabalho de Conclusão de Curso (TCC)
 
 `SEMESTRE:`
 
-`Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` > Inclua o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
+`Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
+> Inclua o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
 
 ## Participantes
 
