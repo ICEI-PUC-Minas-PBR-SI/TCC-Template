@@ -1,6 +1,6 @@
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="3-Especificação.md">Especificação do Trabalho de Conclusão de Curso</a></span>
+<span style="color:red">Pré-requisitos: <a href="3-Especificação.md">Especificação</a></span>
 
 > Detalhar a metodologia empregada no TCC.
 
