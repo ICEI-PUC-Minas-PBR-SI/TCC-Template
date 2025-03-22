@@ -8,7 +8,7 @@ Trabalho de Conclusão de Curso (TCC)
 `SEMESTRE:`
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
-> Inclua o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
+> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
 
 ## Participantes
 
@@ -16,7 +16,7 @@ Os membros da equipe são:
 - Fulano da Silva
 - Ciclano Albuquerque
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
+> Incluir a lista dos membros da equipe com seus nomes completos.
 
 # Estrutura do Projeto
 
@@ -33,14 +33,14 @@ Os membros da equipe são:
 
 Esta pasta arquiva a documentação dos projetos.
 
-Na pasta `docs`, há uma subpasta `apresentacao` que deve arquivar os arquivos utilizados para a apresentação do trabalho.
+Na pasta `docs`, há uma subpasta `apresentacao` que armazena os arquivos utilizados para a apresentação do trabalho.
 
-Na pasta `docs`, há uma subpasta `artigo` que deve arquivar o artigo do trabalho.
+Na pasta `docs`, há uma subpasta `artigo` que arquiva o artigo do trabalho.
 
-Na pasta `docs`, há uma subpasta `imagem` que deve arquivar todas as
+Na pasta `docs`, há uma subpasta `imagem` que armazena todas as
 imagens utilizadas para a elaboração do documento.
 
-Na pasta `docs`, há uma subpasta `video` que deve arquivar todos os
+Na pasta `docs`, há uma subpasta `video` que arquiva todos os
 videos do trabalho.
 
 ## Pasta src
