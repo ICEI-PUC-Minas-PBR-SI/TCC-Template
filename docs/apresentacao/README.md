@@ -1,9 +1,7 @@
-
 # Apresentação
 
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos. 
+> Conjunto de _slides_ em um arquivo **PowerPoint** ou **PDF** com a apresentação do projeto. 
+
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
 > - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
@@ -14,8 +12,8 @@
 
 ## Slides
 
-Coloque aqui os slides da apresentação
+Colocar aqui os _slides_ da apresentação
 
 ## Vídeo
 
-No caso de apresentação gravada, insira aqui o link do vídeo de apresentação.
+No caso de apresentação gravada, insirir aqui o _link_ do vídeo de apresentação.
