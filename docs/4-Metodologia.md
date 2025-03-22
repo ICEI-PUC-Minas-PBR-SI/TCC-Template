@@ -6,9 +6,9 @@
 
 ## Ferramentas
 
-> Liste quais ferramentas foram empregadas no desenvolvimento do TCC, justificando a escolha de cada uma delas. as
+> Listar quais ferramentas foram empregadas no desenvolvimento do TCC, justificando a escolha de cada uma delas. as
 
 ## Cronograma
 
-> Apresente o cronograma de desenvolvimento do TCC.
+> Apresentar o cronograma de desenvolvimento do TCC.
 
