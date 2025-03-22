@@ -22,7 +22,7 @@ Os membros da equipe são:
 
 1. [Introdução](./docs/1-Introdução.md)
 2. [Trabalhos Relacionados](./docs/2-TrabalhosRelacionados.md)
-3. [Especificação do Projeto](./docs/3-Especificação.md)
+3. [Especificação](./docs/3-Especificação.md)
 4. [Metodologia](./docs/4-Metodologia.md)
 5. [Resultado](./docs/5-Resultado.md)
 6. [Conclusão](./docs/6-Conclusão.md)
