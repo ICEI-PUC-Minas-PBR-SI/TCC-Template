@@ -1,4 +1,4 @@
 
 # Artigo
 
-Artigo do Trabalho de Conclusão de Curso (TCC).
+> Artigo do Trabalho de Conclusão de Curso (TCC).

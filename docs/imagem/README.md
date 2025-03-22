@@ -1,4 +1,4 @@
 
 # Imagem
 
-Imagens do Trabalho de Conclusão de Curso (TCC).
+> Imagens do Trabalho de Conclusão de Curso (TCC).

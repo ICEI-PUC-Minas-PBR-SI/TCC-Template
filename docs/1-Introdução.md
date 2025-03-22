@@ -17,13 +17,13 @@
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com o problema escolhido. 
+> Descrever a importância ou a motivação para trabalhar com o problema escolhido. 
 
-> Indique as razões pelas quais você escolheu seu objetivo.
+> Indicar as razões pelas quais o objetivo foi escolhido.
  
-> A equipe de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema abordado no TCC.
+> Você, ou sua equipe de trabalho, pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema abordado no TCC.
 
 ## Público-Alvo
 
-> Descreva o perfil do(s) grupo(s) de pessoas beneficiadas pelo TCC. A ideia é, dentro do possível, destacar: conhecimentos prévios, relação com a tecnologia, relações
+> Descrever o perfil do(s) grupo(s) de pessoas beneficiadas pelo TCC. A ideia é, dentro do possível, destacar: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, relação com o problema tratado no TCC, etc.
