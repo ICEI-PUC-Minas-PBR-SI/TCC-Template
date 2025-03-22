@@ -28,6 +28,4 @@
 > Descrever o perfil do(s) grupo(s) de pessoas beneficiadas pelo TCC. A ideia é, dentro do possível, destacar: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, relação com o problema tratado no TCC, etc.
 
-<p align="right">
-  [Próximo](./2-TrabalhosRelacionados.md)
-</p>
+[Próximo](./2-TrabalhosRelacionados.md)
