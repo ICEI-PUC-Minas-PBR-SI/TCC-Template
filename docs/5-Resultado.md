@@ -11,3 +11,5 @@
 ## Discussão
 
 > Discutir (explicar, detalhar, comparar, etc) o(s) resultado(s) encontrado(s).
+
+[Próximo](./docs/6-Conclusão.md)

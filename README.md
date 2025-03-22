@@ -26,9 +26,7 @@ Os membros da equipe são:
 4. [Metodologia](./docs/4-Metodologia.md)
 5. [Resultado](./docs/5-Resultado.md)
 6. [Conclusão](./docs/6-Conclusão.md)
-7. [Referências Bibliográficas](./docs/Referências.md) 
-
-
+7. [Referências Bibliográficas](./docs/7-Referências.md) 
 
 ## Pasta docs
 

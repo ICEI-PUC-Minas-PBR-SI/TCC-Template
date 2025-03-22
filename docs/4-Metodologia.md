@@ -12,3 +12,4 @@
 
 > Apresentar o cronograma de desenvolvimento do TCC.
 
+[Próximo](./docs/5-Resultado.md)
