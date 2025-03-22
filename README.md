@@ -1,4 +1,4 @@
-# Informações sobre o Trabalho de Conclusão de Curso (TCC)
+# Informação sobre o Trabalho de Conclusão de Curso (TCC)
 `TÍTULO DO TCC`  
 
 Trabalho de Conclusão de Curso (TCC)
